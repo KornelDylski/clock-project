@@ -1,0 +1,19 @@
+{
+  "name": "clock-project",
+  "version": "1.0.0",
+  "description": "Clock project for training your HTML and CSS skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KornelDylski/clock-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KornelDylski/clock-project/issues"
+  },
+  "homepage": "https://github.com/KornelDylski/clock-project#readme"
+}
