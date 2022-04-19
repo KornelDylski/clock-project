@@ -1,6 +1,12 @@
-.circle {
-    width:200px;
-    height: 200px;
+.body {
+    background-color: black;
+}
+#clock {
+    background: purple;
     border-radius: 50%;
-    background-color: hsl(261, 64%, 66%);
-  }
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
